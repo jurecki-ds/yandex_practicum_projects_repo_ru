@@ -6,4 +6,4 @@
 
 | Наименование проекта      | Описание               | Используемые библиотеки        |
 | :------------------------ | :--------------------- | :----------------------------- |
-| [Предсказание оттока клиентов банка](https://github.com/jurecki-ds/yandex_practicum_projects_repo_ru/blob/main/bank_customer_churn_prediction_project) | Построение ML-модели прогнозирования ухода клиентов из банка на основе исторических данных о поведении клиентов и расторжении договоров с банком | *pandas*, *sklearn*, *matplotlib* |
+| [Предсказание оттока клиентов банка](https://github.com/jurecki-ds/yandex_practicum_projects_repo_ru/tree/master/bank_customer_churn_prediction_project) | Построение ML-модели прогнозирования ухода клиентов из банка на основе исторических данных о поведении клиентов и расторжении договоров с банком | *pandas*, *sklearn*, *matplotlib* |
